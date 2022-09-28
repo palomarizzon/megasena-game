@@ -1,0 +1,41 @@
+@media (max-width: 394px) {
+  img {
+    width: 250px;
+  }
+}
+
+@media (min-width: 2560px) {
+  img {
+    width: 750px;
+    padding: 50px;
+  }
+
+  .numbers {
+    min-width: 1000px;
+    font-size: 35px;
+  }
+
+  .number {
+    width: 45px;
+    height: 45px;
+    padding: 15px;
+  }
+
+  button {
+    width: 190px;
+    height: 40px;
+    font-size: 24px;
+  }
+
+  #megasena-buttons {
+    padding-top: 18px;
+  }
+
+  ul {
+    font-size: 30px;
+  }
+
+  #megasena-saved-games ul {
+    width: 300px;
+  }
+}
